@@ -11,7 +11,7 @@ Email Me 👉 ✉️ **rijalbinita01@gmail.com** For Collaboration/Project or An
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@binita rijal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rijalbinita01@gmail.com) 
+ [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rijalbinita01@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
